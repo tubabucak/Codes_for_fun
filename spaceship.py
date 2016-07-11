@@ -1,5 +1,5 @@
 # RICEROCKSS BU TUBA :) RUN & ENJOY :)
-
+# You can play game from: http://www.codeskulptor.org/#user40_isDLuzahYx_26.py
 import simplegui
 import math
 import random
